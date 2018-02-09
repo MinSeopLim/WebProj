@@ -9,5 +9,6 @@
 </head>
 <body>
 
+	<h2>Git 적용</h2>
 </body>
 </html>
